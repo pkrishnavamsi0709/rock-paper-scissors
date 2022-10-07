@@ -1,0 +1,25 @@
+#container{
+    text-align: center;
+    border:3px solid;
+    border-radius:10px;
+}
+
+.pbutton{
+    width:120px;
+    margin-left:15px;
+    margin-right:9px;
+    font-size: large;
+    border:2px solid;
+    border-radius: 5px;
+    background-color:rgb(247, 118, 71);
+}
+
+#player{
+    color:violet;
+}
+#computer{
+    color:rgb(116, 251, 217);
+}
+#result{
+    color:rgb(246, 196, 95);
+}
