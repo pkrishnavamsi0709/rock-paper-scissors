@@ -2,24 +2,24 @@
     text-align: center;
     border:3px solid;
     border-radius:10px;
+    background-color: rgb(129, 217, 237);
 }
 
 .pbutton{
-    width:120px;
     margin-left:15px;
     margin-right:9px;
     font-size: large;
     border:2px solid;
     border-radius: 5px;
-    background-color:rgb(247, 118, 71);
+    background-color:rgb(238, 100, 78);
 }
 
 #player{
     color:violet;
 }
 #computer{
-    color:rgb(116, 251, 217);
+    color:rgb(205, 241, 87);
 }
 #result{
-    color:rgb(246, 196, 95);
+    color:rgb(243, 182, 59);
 }
